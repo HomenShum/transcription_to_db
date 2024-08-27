@@ -1,0 +1,13 @@
+streamlit
+streamlit-webrtc
+pydub
+twilio
+icecream
+tenacity
+openai
+fastapi
+python-docx
+requests
+st-login-form
+supabase
+cryptography

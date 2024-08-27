@@ -1,0 +1,6 @@
+CosmaNeura_demo_Mar24/.streamlit/secrets.toml
+.streamlit/secrets.toml
+test_venv
+test_venv/
+test_venv/*
+transcription_venv

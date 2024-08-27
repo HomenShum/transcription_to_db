@@ -1,0 +1,4 @@
+portaudio19-dev
+pulseaudio
+alsa-utils
+ffmpeg

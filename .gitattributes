@@ -1,0 +1,11 @@
+llama_index_storage/docstore.json filter=lfs diff=lfs merge=lfs -text
+datasets/cosmaneura_patient_QA_combined_129K.csv filter=lfs diff=lfs merge=lfs -text
+datasets/chatdoctor_text.csv filter=lfs diff=lfs merge=lfs -text
+datasets/*.csv filter=lfs diff=lfs merge=lfs -text
+llama_index_storage/*.json filter=lfs diff=lfs merge=lfs -text
+bge_onnx/ filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*llama_index_storage/ filter=lfs diff=lfs merge=lfs -text
+*assets/ filter=lfs diff=lfs merge=lfs -text
+bge_onnx/model.onnx filter=lfs diff=lfs merge=lfs -text
